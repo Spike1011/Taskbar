@@ -1,0 +1,39 @@
+2019-10-02 15:54:12.2593 ERROR [data]. Ошибка подключения, проверьте параметры подключения в файле конфигурации
+2019-10-02 15:54:12.2783 ERROR [oper_data] Ошибка при чтении данных из прибора
+Modbus.SlaveException: Выдано исключение типа "Modbus.SlaveException".
+Function Code: 131
+Exception Code: 2 - The data address received in the query is not an allowable address for the server (or slave). More specifically, the combination of reference number and transfer length is invalid. For a controller with 100 registers, the PDU addresses the first register as 0, and the last one as 99. If a request is submitted with a starting register address of 96 and a quantity of registers of 4, then this request will successfully operate (address-wise at least) on registers 96, 97, 98, 99. If a request is submitted with a starting register address of 96 and a quantity of registers of 5, then this request will fail with Exception Code 0x02 “Illegal Data Address” since it attempts to operate on registers 96, 97, 98, 99 and 100, and there is no register with address 100.
+   в Modbus.IO.ModbusTransport.UnicastMessage[T](IModbusMessage message)
+   в Modbus.Device.ModbusMaster.PerformReadRegisters(ReadHoldingInputRegistersRequest request)
+   в Modbus.Device.ModbusMaster.ReadHoldingRegisters(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   в TSU.ModbusTcp.ReadHoldingRegisters(ModbusIpMaster master, UInt16 reg) в D:\bo\TSU\Taskbar\Port.cs:строка 221
+   в TSU.Port.ReadDataTcp(String[] data) в D:\bo\TSU\Taskbar\Port.cs:строка 135
+   в TSU.Port.Start_Processing(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 57
+2019-10-02 15:54:45.3264 ERROR [data]. Ошибка подключения, проверьте параметры подключения в файле конфигурации
+2019-10-02 15:55:57.7846 ERROR [oper_data] Ошибка при чтении данных из прибора
+Modbus.SlaveException: Выдано исключение типа "Modbus.SlaveException".
+Function Code: 131
+Exception Code: 2 - The data address received in the query is not an allowable address for the server (or slave). More specifically, the combination of reference number and transfer length is invalid. For a controller with 100 registers, the PDU addresses the first register as 0, and the last one as 99. If a request is submitted with a starting register address of 96 and a quantity of registers of 4, then this request will successfully operate (address-wise at least) on registers 96, 97, 98, 99. If a request is submitted with a starting register address of 96 and a quantity of registers of 5, then this request will fail with Exception Code 0x02 “Illegal Data Address” since it attempts to operate on registers 96, 97, 98, 99 and 100, and there is no register with address 100.
+   в Modbus.IO.ModbusTransport.UnicastMessage[T](IModbusMessage message)
+   в Modbus.Device.ModbusMaster.PerformReadRegisters(ReadHoldingInputRegistersRequest request)
+   в Modbus.Device.ModbusMaster.ReadHoldingRegisters(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   в TSU.ModbusTcp.ReadHoldingRegisters(ModbusIpMaster master, UInt16 reg) в D:\bo\TSU\Taskbar\Port.cs:строка 221
+   в TSU.Port.ReadDataTcp(String[] data) в D:\bo\TSU\Taskbar\Port.cs:строка 135
+   в TSU.Port.Start_Processing(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 57
+2019-10-02 15:55:57.7846 ERROR [data]. Ошибка подключения, проверьте параметры подключения в файле конфигурации
+2019-10-02 15:57:45.7380 ERROR [data]. Ошибка подключения, проверьте параметры подключения в файле конфигурации
+2019-10-02 15:57:48.1473 ERROR [oper_data] Ошибка при чтении данных из прибора
+Modbus.SlaveException: Выдано исключение типа "Modbus.SlaveException".
+Function Code: 131
+Exception Code: 2 - The data address received in the query is not an allowable address for the server (or slave). More specifically, the combination of reference number and transfer length is invalid. For a controller with 100 registers, the PDU addresses the first register as 0, and the last one as 99. If a request is submitted with a starting register address of 96 and a quantity of registers of 4, then this request will successfully operate (address-wise at least) on registers 96, 97, 98, 99. If a request is submitted with a starting register address of 96 and a quantity of registers of 5, then this request will fail with Exception Code 0x02 “Illegal Data Address” since it attempts to operate on registers 96, 97, 98, 99 and 100, and there is no register with address 100.
+   в Modbus.IO.ModbusTransport.UnicastMessage[T](IModbusMessage message)
+   в Modbus.Device.ModbusMaster.PerformReadRegisters(ReadHoldingInputRegistersRequest request)
+   в Modbus.Device.ModbusMaster.ReadHoldingRegisters(Byte slaveAddress, UInt16 startAddress, UInt16 numberOfPoints)
+   в TSU.ModbusTcp.ReadHoldingRegisters(ModbusIpMaster master, UInt16 reg) в D:\bo\TSU\Taskbar\Port.cs:строка 221
+   в TSU.Port.ReadDataTcp(String[] data) в D:\bo\TSU\Taskbar\Port.cs:строка 135
+   в TSU.Port.Start_Processing(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 57
+2019-10-02 15:58:09.3134 ERROR [data]. Ошибка подключения, проверьте параметры подключения в файле конфигурации
+2019-10-02 16:04:25.4383 ERROR [data]. Ошибка подключения, проверьте параметры подключения в файле конфигурации
+2019-10-03 14:29:14.6654 ERROR [data]. Ошибка подключения, проверьте параметры подключения в файле конфигурации
+2019-10-11 17:16:55.4851 ERROR [data]. Ошибка подключения, проверьте параметры подключения в файле конфигурации
+2019-10-11 17:16:55.4851 ERROR [oper_data]. Ошибка подключения, проверьте параметры подключения в файле конфигурации

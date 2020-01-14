@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="yes"?>
+<Root>
+  <Setting>
+    <ip>10.0.1.117\dbcon</ip>
+    <name>1806-15.3</name>
+    <login>sa</login>
+    <pass>0603</pass>
+    <security>False</security>
+  </Setting>
+  <monitor id="0">
+    <type>Рабочие параметры</type>
+    <monitor_id>40</monitor_id>
+    <status>Подключено</status>
+    <Объект>Mimic F.</Объект>
+    <Цех>Mimic W.</Цех>
+    <Оборудование>T-40</Оборудование>
+    <Номер>553633</Номер>
+    <Опрос>1 м.</Опрос>
+    <period>60000</period>
+    <check>true</check>
+    <ip>10.0.1.117</ip>
+    <ia_1>0</ia_1>
+    <ia_2>1</ia_2>
+    <ib_1>2</ib_1>
+    <ib_2>3</ib_2>
+    <ic_1>4</ic_1>
+    <ic_2>5</ic_2>
+    <ua_1>6</ua_1>
+    <ua_2>7</ua_2>
+    <ub_1>8</ub_1>
+    <ub_2>9</ub_2>
+    <uc_1>10</uc_1>
+    <uc_2>11</uc_2>
+    <t_env_1>12</t_env_1>
+    <t_env_2>13</t_env_2>
+    <t_top_oil_1>14</t_top_oil_1>
+    <t_top_oil_2>15</t_top_oil_2>
+    <hum_env_1>16</hum_env_1>
+    <hum_env_2>17</hum_env_2>
+    <hum_oil_rel_1>18</hum_oil_rel_1>
+    <hum_oil_rel_2>19</hum_oil_rel_2>
+    <hum_oil_abs_1>20</hum_oil_abs_1>
+    <hum_oil_abs_2>21</hum_oil_abs_2>
+  </monitor>
+  <monitor id="1">
+    <type>Концентрации</type>
+    <monitor_id>39</monitor_id>
+    <status>Подключено</status>
+    <Объект>111</Объект>
+    <Цех>222</Цех>
+    <Оборудование>333</Оборудование>
+    <Номер>99</Номер>
+    <Опрос>30 c.</Опрос>
+    <period>30000</period>
+    <check>true</check>
+    <ip>10.0.1.165</ip>
+    <h2_1>0</h2_1>
+    <h2_2>1</h2_2>
+    <co_1>2</co_1>
+    <co_2>3</co_2>
+    <co2_1>4</co2_1>
+    <co2_2>5</co2_2>
+    <ch4_1>6</ch4_1>
+    <ch4_2>7</ch4_2>
+    <c2h2_1>8</c2h2_1>
+    <c2h2_2>9</c2h2_2>
+    <c2h4_1>10</c2h4_1>
+    <c2h4_2>11</c2h4_2>
+    <c2h6_1>12</c2h6_1>
+    <c2h6_2>13</c2h6_2>
+    <o2_1>14</o2_1>
+    <o2_2>15</o2_2>
+    <n2_1>16</n2_1>
+    <n2_2>17</n2_2>
+  </monitor>
+</Root>

@@ -1,0 +1,9 @@
+D:\bo\TSU\.vs\TSU.01\v16\lut\0\b\Taskbar\bin\Debug\NLog.config
+D:\bo\TSU\.vs\TSU.01\v16\lut\0\b\Taskbar\bin\Debug\TSU.exe.config
+D:\bo\TSU\.vs\TSU.01\v16\lut\0\b\Taskbar\bin\Debug\TSU.exe
+D:\bo\TSU\.vs\TSU.01\v16\lut\0\i\TSU\Debug\TSU.csprojAssemblyReference.cache
+D:\bo\TSU\.vs\TSU.01\v16\lut\0\i\TSU\Debug\TSU.Main.resources
+D:\bo\TSU\.vs\TSU.01\v16\lut\0\i\TSU\Debug\TSU.Properties.Resources.resources
+D:\bo\TSU\.vs\TSU.01\v16\lut\0\i\TSU\Debug\TSU.csproj.GenerateResource.cache
+D:\bo\TSU\.vs\TSU.01\v16\lut\0\i\TSU\Debug\TSU.csproj.CopyComplete
+D:\bo\TSU\.vs\TSU.01\v16\lut\0\i\TSU\Debug\TSU.exe

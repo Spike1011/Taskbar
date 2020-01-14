@@ -1,0 +1,58 @@
+D:\Новая папка\Taskbar\Taskbar\bin\Debug\Taskbar.exe.config
+D:\Новая папка\Taskbar\Taskbar\bin\Debug\Taskbar.exe
+D:\Новая папка\Taskbar\Taskbar\bin\Debug\Taskbar.pdb
+D:\Новая папка\Taskbar\Taskbar\bin\Debug\NModbus4.dll
+D:\Новая папка\Taskbar\Taskbar\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Новая папка\Taskbar\Taskbar\bin\Debug\System.Data.SqlClient.dll
+D:\Новая папка\Taskbar\Taskbar\bin\Debug\System.Security.AccessControl.dll
+D:\Новая папка\Taskbar\Taskbar\bin\Debug\System.Security.Permissions.dll
+D:\Новая папка\Taskbar\Taskbar\bin\Debug\System.Security.Principal.Windows.dll
+D:\Новая папка\Taskbar\Taskbar\bin\Debug\NModbus4.xml
+D:\Новая папка\Taskbar\Taskbar\obj\Debug\Taskbar.csprojAssemblyReference.cache
+D:\Новая папка\Taskbar\Taskbar\obj\Debug\Taskbar.Properties.Resources.resources
+D:\Новая папка\Taskbar\Taskbar\obj\Debug\Taskbar.csproj.GenerateResource.cache
+D:\Новая папка\Taskbar\Taskbar\obj\Debug\Taskbar.csproj.CoreCompileInputs.cache
+D:\Новая папка\Taskbar\Taskbar\obj\Debug\Taskbar.csproj.CopyComplete
+D:\Новая папка\Taskbar\Taskbar\obj\Debug\Taskbar.exe
+D:\Новая папка\Taskbar\Taskbar\obj\Debug\Taskbar.pdb
+D:\Новая папка\Taskbar\Taskbar\obj\Debug\Taskbar.Form1.resources
+D:\bo_WinForm\Taskbar\Taskbar\bin\Debug\Taskbar.exe.config
+D:\bo_WinForm\Taskbar\Taskbar\bin\Debug\Taskbar.exe
+D:\bo_WinForm\Taskbar\Taskbar\bin\Debug\Taskbar.pdb
+D:\bo_WinForm\Taskbar\Taskbar\bin\Debug\NModbus4.dll
+D:\bo_WinForm\Taskbar\Taskbar\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\bo_WinForm\Taskbar\Taskbar\bin\Debug\System.Data.SqlClient.dll
+D:\bo_WinForm\Taskbar\Taskbar\bin\Debug\System.Security.AccessControl.dll
+D:\bo_WinForm\Taskbar\Taskbar\bin\Debug\System.Security.Permissions.dll
+D:\bo_WinForm\Taskbar\Taskbar\bin\Debug\System.Security.Principal.Windows.dll
+D:\bo_WinForm\Taskbar\Taskbar\bin\Debug\NModbus4.xml
+D:\bo_WinForm\Taskbar\Taskbar\obj\Debug\Taskbar.csprojAssemblyReference.cache
+D:\bo_WinForm\Taskbar\Taskbar\obj\Debug\Taskbar.Form1.resources
+D:\bo_WinForm\Taskbar\Taskbar\obj\Debug\Taskbar.Properties.Resources.resources
+D:\bo_WinForm\Taskbar\Taskbar\obj\Debug\Taskbar.csproj.GenerateResource.cache
+D:\bo_WinForm\Taskbar\Taskbar\obj\Debug\Taskbar.csproj.CoreCompileInputs.cache
+D:\bo_WinForm\Taskbar\Taskbar\obj\Debug\Taskbar.csproj.CopyComplete
+D:\bo_WinForm\Taskbar\Taskbar\obj\Debug\Taskbar.exe
+D:\bo_WinForm\Taskbar\Taskbar\obj\Debug\Taskbar.pdb
+D:\bo_WinForm\Taskbar\Taskbar\bin\Debug\MathNet.Numerics.dll
+D:\bo_WinForm\Taskbar\Taskbar\bin\Debug\MathNet.Numerics.xml
+E:\bo_WinForm\Taskbar\Taskbar\bin\Debug\Taskbar.exe.config
+E:\bo_WinForm\Taskbar\Taskbar\bin\Debug\Taskbar.exe
+E:\bo_WinForm\Taskbar\Taskbar\bin\Debug\Taskbar.pdb
+E:\bo_WinForm\Taskbar\Taskbar\bin\Debug\MathNet.Numerics.dll
+E:\bo_WinForm\Taskbar\Taskbar\bin\Debug\NModbus4.dll
+E:\bo_WinForm\Taskbar\Taskbar\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\bo_WinForm\Taskbar\Taskbar\bin\Debug\System.Data.SqlClient.dll
+E:\bo_WinForm\Taskbar\Taskbar\bin\Debug\System.Security.AccessControl.dll
+E:\bo_WinForm\Taskbar\Taskbar\bin\Debug\System.Security.Permissions.dll
+E:\bo_WinForm\Taskbar\Taskbar\bin\Debug\System.Security.Principal.Windows.dll
+E:\bo_WinForm\Taskbar\Taskbar\bin\Debug\MathNet.Numerics.xml
+E:\bo_WinForm\Taskbar\Taskbar\bin\Debug\NModbus4.xml
+E:\bo_WinForm\Taskbar\Taskbar\obj\Debug\Taskbar.csprojAssemblyReference.cache
+E:\bo_WinForm\Taskbar\Taskbar\obj\Debug\Taskbar.Properties.Resources.resources
+E:\bo_WinForm\Taskbar\Taskbar\obj\Debug\Taskbar.csproj.GenerateResource.cache
+E:\bo_WinForm\Taskbar\Taskbar\obj\Debug\Taskbar.csproj.CoreCompileInputs.cache
+E:\bo_WinForm\Taskbar\Taskbar\obj\Debug\Taskbar.csproj.CopyComplete
+E:\bo_WinForm\Taskbar\Taskbar\obj\Debug\Taskbar.exe
+E:\bo_WinForm\Taskbar\Taskbar\obj\Debug\Taskbar.pdb
+E:\bo_WinForm\Taskbar\Taskbar\obj\Debug\Taskbar.Main.resources

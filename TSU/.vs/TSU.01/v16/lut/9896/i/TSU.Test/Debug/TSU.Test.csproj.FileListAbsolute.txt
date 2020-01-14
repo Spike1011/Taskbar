@@ -1,0 +1,5 @@
+D:\bo\TSU\.vs\TSU.01\v16\lut\0\b\VSU.Test\bin\Debug\NLog.config
+D:\bo\TSU\.vs\TSU.01\v16\lut\0\b\VSU.Test\bin\Debug\VSU.Test.dll
+D:\bo\TSU\.vs\TSU.01\v16\lut\0\i\TSU.Test\Debug\TSU.Test.csprojAssemblyReference.cache
+D:\bo\TSU\.vs\TSU.01\v16\lut\0\i\TSU.Test\Debug\TSU.Test.csproj.CopyComplete
+D:\bo\TSU\.vs\TSU.01\v16\lut\0\i\TSU.Test\Debug\VSU.Test.dll

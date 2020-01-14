@@ -1,0 +1,186 @@
+2019-09-24 11:49:15.8853 ERROR [data]. Прибор недоступен. Проверьте статус прибора или соединения
+System.InvalidOperationException: Операция является недопустимой из-за текущего состояния объекта.
+   в TSU.Port.ConnectTcp(String ipAddress) в D:\bo\TSU\Taskbar\Port.cs:строка 176
+2019-09-24 11:49:16.0353 ERROR [data]. Прибор недоступен. Проверьте статус прибора или соединения
+System.InvalidOperationException: Операция является недопустимой из-за текущего состояния объекта.
+   в TSU.Port.ConnectTcp(String ipAddress) в D:\bo\TSU\Taskbar\Port.cs:строка 176
+2019-09-24 11:51:59.9552 ERROR [data]. Прибор недоступен. Проверьте статус прибора или соединения
+System.InvalidOperationException: Операция является недопустимой из-за текущего состояния объекта.
+   в TSU.Port.ConnectTcp(String ipAddress) в D:\bo\TSU\Taskbar\Port.cs:строка 176
+2019-09-24 11:51:59.9552 ERROR [data]. Прибор недоступен. Проверьте статус прибора или соединения
+System.InvalidOperationException: Операция является недопустимой из-за текущего состояния объекта.
+   в TSU.Port.ConnectTcp(String ipAddress) в D:\bo\TSU\Taskbar\Port.cs:строка 176
+2019-09-24 15:02:15.7140 INFO Ошибка подключения к базе данных,  проверьте параметры подключения в файле конфигураций.
+2019-09-24 15:02:32.5346 ERROR Неизвестная ошибка
+System.ArgumentOutOfRangeException: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   в TSU.DBUtils.Polunminal(DataRow[] f_d_s, List`1 _vf) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 249
+   в TSU.DBUtils.WriteToSql(List`1 _vf, String name_monitor, Int32 monitor_id, String[] set) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 54
+   в TSU.Port.ReadData(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 81
+2019-09-24 15:06:46.1969 ERROR Неизвестная ошибка
+System.ArgumentOutOfRangeException: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   в TSU.DBUtils.Polunminal(DataRow[] f_d_s, List`1 _vf) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 249
+   в TSU.DBUtils.WriteToSql(List`1 _vf, String name_monitor, Int32 monitor_id, String[] set) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 54
+   в TSU.Port.ReadData(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 81
+2019-09-24 15:07:29.5143 ERROR Неизвестная ошибка
+System.ArgumentOutOfRangeException: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   в TSU.DBUtils.Polunminal(DataRow[] f_d_s, List`1 _vf) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 249
+   в TSU.DBUtils.WriteToSql(List`1 _vf, String name_monitor, Int32 monitor_id, String[] set) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 54
+   в TSU.Port.ReadData(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 81
+2019-09-24 15:07:41.8327 ERROR Неизвестная ошибка
+System.ArgumentOutOfRangeException: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   в TSU.DBUtils.Polunminal(DataRow[] f_d_s, List`1 _vf) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 249
+   в TSU.DBUtils.WriteToSql(List`1 _vf, String name_monitor, Int32 monitor_id, String[] set) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 54
+   в TSU.Port.ReadData(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 81
+2019-09-24 15:41:51.1194 ERROR Неизвестная ошибка
+System.InvalidCastException: Невозможно выполнить приведение данного объекта из DBNull к другому типу.
+   в System.DBNull.System.IConvertible.ToDouble(IFormatProvider provider)
+   в System.Convert.ToDouble(Object value)
+   в TSU.DBUtils.Polunminal(DataRow[] f_d_s, List`1 _vf) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 216
+   в TSU.DBUtils.WriteToSql(List`1 _vf, String name_monitor, Int32 monitor_id, String[] set) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 47
+   в TSU.Port.ReadData(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 81
+2019-09-24 15:41:51.4484 ERROR Неизвестная ошибка
+System.InvalidCastException: Невозможно выполнить приведение данного объекта из DBNull к другому типу.
+   в System.DBNull.System.IConvertible.ToDouble(IFormatProvider provider)
+   в System.Convert.ToDouble(Object value)
+   в TSU.DBUtils.Polunminal(DataRow[] f_d_s, List`1 _vf) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 216
+   в TSU.DBUtils.WriteToSql(List`1 _vf, String name_monitor, Int32 monitor_id, String[] set) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 47
+   в TSU.Port.ReadData(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 81
+2019-09-24 15:42:58.1754 ERROR Неизвестная ошибка
+System.ArgumentOutOfRangeException: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   в TSU.DBUtils.Polunminal(DataRow[] f_d_s, List`1 _vf) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 250
+   в TSU.DBUtils.WriteToSql(List`1 _vf, String name_monitor, Int32 monitor_id, String[] set) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 47
+   в TSU.Port.ReadData(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 81
+2019-09-24 15:42:58.6754 ERROR Неизвестная ошибка
+System.ArgumentOutOfRangeException: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   в TSU.DBUtils.Polunminal(DataRow[] f_d_s, List`1 _vf) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 250
+   в TSU.DBUtils.WriteToSql(List`1 _vf, String name_monitor, Int32 monitor_id, String[] set) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 47
+   в TSU.Port.ReadData(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 81
+2019-09-24 15:45:33.2113 ERROR Неизвестная ошибка
+System.ArgumentOutOfRangeException: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   в TSU.DBUtils.Polunminal(DataRow[] f_d_s, List`1 _vf) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 251
+   в TSU.DBUtils.WriteToSql(List`1 _vf, String name_monitor, Int32 monitor_id, String[] set) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 48
+   в TSU.Port.ReadData(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 81
+2019-09-24 15:45:33.2113 ERROR Неизвестная ошибка
+System.ArgumentOutOfRangeException: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   в TSU.DBUtils.Polunminal(DataRow[] f_d_s, List`1 _vf) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 251
+   в TSU.DBUtils.WriteToSql(List`1 _vf, String name_monitor, Int32 monitor_id, String[] set) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 48
+   в TSU.Port.ReadData(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 81
+2019-09-24 15:57:35.3033 ERROR Неизвестная ошибка
+System.IndexOutOfRangeException: Индекс находился вне границ массива.
+   в TSU.DBUtils.Polunminal(DataRow[] f_d_s, List`1 _vf) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 253
+   в TSU.DBUtils.WriteToSql(List`1 _vf, String name_monitor, Int32 monitor_id, String[] set) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 48
+   в TSU.Port.ReadData(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 81
+2019-09-24 16:38:03.8953 ERROR Неизвестная ошибка
+System.ArgumentOutOfRangeException: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в TSU.DBUtils.Polunminal(DataRow[] f_d_s, List`1 _vf) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 258
+   в TSU.DBUtils.WriteToSql(List`1 _vf, String name_monitor, Int32 monitor_id, String[] set) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 43
+   в TSU.Port.ReadData(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 81
+2019-09-24 16:38:51.2140 ERROR Неизвестная ошибка
+System.ArgumentOutOfRangeException: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.get_Item(Int32 index)
+   в TSU.DBUtils.Polunminal(DataRow[] f_d_s, List`1 _vf) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 258
+   в TSU.DBUtils.WriteToSql(List`1 _vf, String name_monitor, Int32 monitor_id, String[] set) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 43
+   в TSU.Port.ReadData(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 81
+2019-09-24 16:58:02.2864 ERROR Неизвестная ошибка
+System.IndexOutOfRangeException: Индекс находился вне границ массива.
+   в TSU.DBUtils.Polunminal(DataRow[] f_d_s, List`1 _vf) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 253
+   в TSU.DBUtils.WriteToSql(List`1 _vf, String name_monitor, Int32 monitor_id, String[] set) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 43
+   в TSU.Port.ReadData(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 81
+2019-09-24 17:08:37.0923 ERROR Неизвестная ошибка
+System.ArgumentOutOfRangeException: Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
+Имя параметра: index
+   в System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   в System.Collections.Generic.List`1.set_Item(Int32 index, T value)
+   в TSU.DBUtils.Polunminal(DataRow[] f_d_s, List`1 _vf)
+   в TSU.DBUtils.WriteToSql(List`1 _vf, String name_monitor, Int32 monitor_id, String[] set)
+   в TSU.Port.ReadData(String[] data, Int32 monitor_id, String[] settings)
+2019-09-27 16:37:56.7697 ERROR [oper_data]. Прибор недоступен. Проверьте статус прибора или соединения
+System.InvalidOperationException: Операция является недопустимой из-за текущего состояния объекта.
+   в TSU.Port.ConnectTcp(String ipAddress) в D:\bo\TSU\Taskbar\Port.cs:строка 176
+2019-09-27 16:38:10.9378 ERROR [oper_data]. Прибор недоступен. Проверьте статус прибора или соединения
+System.InvalidOperationException: Операция является недопустимой из-за текущего состояния объекта.
+   в TSU.Port.ConnectTcp(String ipAddress) в D:\bo\TSU\Taskbar\Port.cs:строка 176
+2019-09-27 17:13:48.5556 ERROR Неизвестная ошибка
+System.InvalidCastException: Невозможно выполнить приведение данного объекта из DBNull к другому типу.
+   в System.DBNull.System.IConvertible.ToDouble(IFormatProvider provider)
+   в System.Convert.ToDouble(Object value)
+   в TSU.DBUtils.Polunminal(DataRow[] f_d_s, List`1 _vf) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 213
+   в TSU.DBUtils.WriteToSql(List`1 _vf, String name_monitor, Int32 monitor_id, String[] set) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 37
+   в TSU.Port.Start_Processing(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 81
+2019-09-27 17:14:18.6615 ERROR Неизвестная ошибка
+System.InvalidCastException: Невозможно выполнить приведение данного объекта из DBNull к другому типу.
+   в System.DBNull.System.IConvertible.ToDouble(IFormatProvider provider)
+   в System.Convert.ToDouble(Object value)
+   в TSU.DBUtils.Polunminal(DataRow[] f_d_s, List`1 _vf) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 213
+   в TSU.DBUtils.WriteToSql(List`1 _vf, String name_monitor, Int32 monitor_id, String[] set) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 37
+   в TSU.Port.Start_Processing(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 81
+2019-09-27 17:14:48.7075 ERROR Неизвестная ошибка
+System.InvalidCastException: Невозможно выполнить приведение данного объекта из DBNull к другому типу.
+   в System.DBNull.System.IConvertible.ToDouble(IFormatProvider provider)
+   в System.Convert.ToDouble(Object value)
+   в TSU.DBUtils.Polunminal(DataRow[] f_d_s, List`1 _vf) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 213
+   в TSU.DBUtils.WriteToSql(List`1 _vf, String name_monitor, Int32 monitor_id, String[] set) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 37
+   в TSU.Port.Start_Processing(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 81
+2019-09-27 17:16:13.3568 ERROR Неизвестная ошибка
+System.InvalidCastException: Невозможно выполнить приведение данного объекта из DBNull к другому типу.
+   в System.DBNull.System.IConvertible.ToDouble(IFormatProvider provider)
+   в System.Convert.ToDouble(Object value)
+   в TSU.DBUtils.Polunminal(DataRow[] f_d_s, List`1 _vf) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 215
+   в TSU.DBUtils.WriteToSql(List`1 _vf, String name_monitor, Int32 monitor_id, String[] set) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 39
+   в TSU.Port.Start_Processing(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 81
+2019-09-27 17:16:43.4522 ERROR Неизвестная ошибка
+System.InvalidCastException: Невозможно выполнить приведение данного объекта из DBNull к другому типу.
+   в System.DBNull.System.IConvertible.ToDouble(IFormatProvider provider)
+   в System.Convert.ToDouble(Object value)
+   в TSU.DBUtils.Polunminal(DataRow[] f_d_s, List`1 _vf) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 215
+   в TSU.DBUtils.WriteToSql(List`1 _vf, String name_monitor, Int32 monitor_id, String[] set) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 39
+   в TSU.Port.Start_Processing(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 81
+2019-09-27 17:17:29.8319 ERROR Неизвестная ошибка
+System.InvalidCastException: Невозможно выполнить приведение данного объекта из DBNull к другому типу.
+   в System.DBNull.System.IConvertible.ToDouble(IFormatProvider provider)
+   в System.Convert.ToDouble(Object value)
+   в TSU.DBUtils.Polunminal(DataRow[] f_d_s, List`1 _vf) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 215
+   в TSU.DBUtils.WriteToSql(List`1 _vf, String name_monitor, Int32 monitor_id, String[] set) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 39
+   в TSU.Port.Start_Processing(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 81
+2019-09-27 17:17:44.6063 ERROR Неизвестная ошибка
+System.InvalidCastException: Невозможно выполнить приведение данного объекта из DBNull к другому типу.
+   в System.DBNull.System.IConvertible.ToDouble(IFormatProvider provider)
+   в System.Convert.ToDouble(Object value)
+   в TSU.DBUtils.Polunminal(DataRow[] f_d_s, List`1 _vf) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 215
+   в TSU.DBUtils.WriteToSql(List`1 _vf, String name_monitor, Int32 monitor_id, String[] set) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 39
+   в TSU.Port.Start_Processing(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 81
+2019-09-27 17:21:51.6341 ERROR Неизвестная ошибка
+System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в MathNet.Numerics.Fit.Polynomial(Double[] x, Double[] y, Int32 order, DirectRegressionMethod method)
+   в TSU.DBUtils.Polunminal(DataRow[] f_d_s, List`1 _vf) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 263
+   в TSU.DBUtils.WriteToSql(List`1 _vf, String name_monitor, Int32 monitor_id, String[] set) в D:\bo\TSU\Taskbar\DBUtils.cs:строка 39
+   в TSU.Port.Start_Processing(String[] data, Int32 monitor_id, String[] settings) в D:\bo\TSU\Taskbar\Port.cs:строка 81
